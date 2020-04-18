@@ -183,5 +183,8 @@ h1 {
   #title {
     text-align: center;
   }
+  .d-button{
+    margin-bottom: 10px;
+  }
 
 }
