@@ -44,8 +44,7 @@ h1 {
 }
 
 .d-button {
-  margin: 7px 7px;
-  
+  margin: 0 7px; 
 
 }
 
@@ -184,6 +183,10 @@ h1 {
   #title {
     text-align: center;
   }
+  .d-button {
+  margin-bottom: 7px; 
+
+}
  
 
 }
